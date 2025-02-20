@@ -51,5 +51,4 @@ We welcome contributions! Feel free to submit issues or pull requests.
 This project is licensed under the MIT License.
 
 ## 🤝 Connect
-💼 LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)  
-📧 Email: your.email@example.com
+💼 LinkedIn: linkedin.com/in/er-mehul-dubey
